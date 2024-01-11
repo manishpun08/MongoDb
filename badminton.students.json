@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "656070d2b16daaa31169a51a"
+  },
+  "name": "Manish",
+  "hobbies": [
+    "Swimming",
+    "Dancing"
+  ],
+  "scores": [
+    {
+      "sub": "Math",
+      "point": 55
+    },
+    {
+      "sub": "Science",
+      "point": 65
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656070d2b16daaa31169a51b"
+  },
+  "name": "Deepesh",
+  "hobbies": [
+    "Gaming",
+    "Dancing",
+    "Singing"
+  ],
+  "scores": [
+    {
+      "sub": "Math",
+      "point": 45
+    },
+    {
+      "sub": "Science",
+      "point": 75
+    },
+    {
+      "sub": "Social",
+      "point": 55
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656070d2b16daaa31169a51c"
+  },
+  "name": "Suraj",
+  "hobbies": [
+    "Trekking",
+    "Cricket",
+    "Bikes"
+  ],
+  "scores": [
+    {
+      "sub": "Math",
+      "point": 75
+    },
+    {
+      "sub": "Science",
+      "point": 55
+    },
+    {
+      "sub": "Social",
+      "point": 45
+    }
+  ]
+}]
