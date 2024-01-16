@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "656070d2b16daaa31169a51a"
+  },
+  "name": "Alish",
+  "hobbies": [
+    "Books",
+    "Books",
+    "Books",
+    "Books",
+    "Books"
+  ],
+  "scores": [],
+  "isGraduated": false,
+  "totalAge": 17.5
+},
+{
+  "_id": {
+    "$oid": "656070d2b16daaa31169a51b"
+  },
+  "name": "Sulochan",
+  "hobbies": [
+    "Cycling",
+    "Trekking"
+  ],
+  "scores": [
+    {
+      "sub": "Science",
+      "point": 75
+    },
+    {
+      "sub": "Math",
+      "point": 50
+    },
+    {
+      "sub": "Arts",
+      "point": 40
+    },
+    {
+      "sub": "Environment science",
+      "point": 55
+    }
+  ],
+  "isGraduated": false,
+  "totalAge": 15
+},
+{
+  "_id": {
+    "$oid": "656070d2b16daaa31169a51c"
+  },
+  "name": "Sagar",
+  "hobbies": [
+    "Cricket"
+  ],
+  "scores": [
+    {
+      "sub": "Political Science",
+      "point": 50
+    },
+    {
+      "sub": "Science",
+      "point": 50
+    },
+    {
+      "sub": "Social",
+      "point": 50
+    }
+  ],
+  "isGraduated": true,
+  "totalAge": 39
+},
+{
+  "_id": {
+    "$oid": "659fbbac8e46b28b92d7033c"
+  },
+  "name": "Prakash",
+  "hobbies": [
+    "Cricket",
+    "Basketball"
+  ],
+  "isGraduated": false,
+  "scores": [
+    {
+      "sub": "Political Science",
+      "point": 75
+    },
+    {
+      "sub": "Science",
+      "point": 55
+    },
+    {
+      "sub": "Social",
+      "point": 55
+    }
+  ],
+  "totalAge": 10
+}]
